@@ -1,0 +1,13 @@
+#algorithm
+pandas
+scikit-learn
+numpy
+scipy
+openpyxl
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.14.0
+xlrd==1.1.0
+
+#other
+fastapi[all]
